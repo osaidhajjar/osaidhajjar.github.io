@@ -3,17 +3,24 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
-"assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
+  "assets/AssetManifest.json": "93e0c311628d09ec30cb49b2ec3a0f20",
+"assets/FontManifest.json": "392eb497a0a1f88eb4288dfe59bd630b",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
+"assets/fonts/Tajawal-Black.ttf": "a515f84cb1a7ed89288dba4be9719722",
+"assets/fonts/Tajawal-Bold.ttf": "79bb19e04937c19974260fcb4128270e",
+"assets/fonts/Tajawal-ExtraBold.ttf": "7bbbfd28e8dbd463c9f449aa96ffd7ed",
+"assets/fonts/Tajawal-ExtraLight.ttf": "8c37c5fa0335c5d15c2a9f182af1eeb0",
+"assets/fonts/Tajawal-Light.ttf": "fbca61ce5f0321ab500bdbb168b775b0",
+"assets/fonts/Tajawal-Medium.ttf": "2bfe3ee2145f6755e4b5960310daee03",
+"assets/fonts/Tajawal-Regular.ttf": "6b10b55e4df612910047b7e5d596a9d5",
 "assets/NOTICES": "286df8bbafa25f43d9f1ea1f994a8f1f",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "aa67b6979961527e9f15695cda7b427e",
-"/": "aa67b6979961527e9f15695cda7b427e",
-"main.dart.js": "1e129bbf5f36e7c7208fa67866edc341",
+"index.html": "8138057d27b76a2ac7d91d3d3f90dd89",
+"/": "8138057d27b76a2ac7d91d3d3f90dd89",
+"main.dart.js": "b6d35c0dca282d64028b1ca68e110807",
 "manifest.json": "f35bd00acc6350598b6e1e2590f088e8",
 "version.json": "37da58b8142ff9cd5f0f2c9db59f2fcf"
 };
