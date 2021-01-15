@@ -49550,7 +49550,7 @@ M:function(a,b){var s,r,q,p,o,n,m,l,k,j=this,i=null,h=j.a,g=L.ja(h.e,i,i)
 g=E.ZN(D.iu(i,L.Lx(C.oV),C.a9,!1,i,i,i,i,i,i,i,i,i,i,new B.Vr(b),i,i,i,i,i),g)
 s=U.fl(i,C.iC,new L.cV("assets/bg_level.png"),i)
 r=T.eN(i,50,i)
-h=T.cX(L.ja(h.f,A.hK(i,i,i,i,i,i,i,i,i,i,i,30,i,i,i,i,!0,i,i,i,i,i,i),C.io),i,i)
+h=T.cX(L.ja(h.f,A.hK(i,i,i,i,i,i,i,i,i,i,i,20,i,i,i,i,!0,i,i,i,i,i,i),C.io),i,i)
 q=j.d
 q.toString
 p=H.a2(q).j("aj<1,kE*>")
