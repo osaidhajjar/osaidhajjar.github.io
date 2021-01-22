@@ -3,9 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "8ebc303e932e1b14fcf54f7732dd37ea",
+  "assets/AssetManifest.json": "3ddcce249f6256688362ffb9cf900979",
+"assets/assets/bg.gif": "31386cfeb379f581cf54882a3a09bd51",
 "assets/assets/bg.png": "40dac8fa326f611ae3446a16385fa2a9",
 "assets/assets/bg_level.png": "86594d1efbcb2b1d3e8536ecaae8f38b",
+"assets/assets/bg_main.gif": "df6a38818b2cb32a7b33cb5f9e6460a4",
 "assets/assets/box_black.png": "a345188d8274f26b0b7a39d541d57934",
 "assets/assets/box_cold.gif": "e900b96188e14c8099ae41dc8a4b13d0",
 "assets/assets/box_hot.gif": "4d429b73c2126f8c9c8daac3aad8af09",
@@ -24,7 +26,10 @@ const RESOURCES = {
 "assets/assets/brush_red.gif": "51a2a77238c585b8321ed773eee1f992",
 "assets/assets/brush_white.gif": "01461f2235ed4326d4e466b353433d72",
 "assets/assets/brush_yellow.gif": "51b28b9f2e87d38e9fe48f71b901b8bb",
+"assets/assets/buttom_start.png": "a15e37b2421d8a8892c41e192fe29c4c",
+"assets/assets/button_choose.png": "c922dd0f8971b2bd73b14e74aedf8b58",
 "assets/assets/button_cold.png": "b51d1fd48a6742ea475bb560a63518a3",
+"assets/assets/button_continue.png": "38344d84eee2c869e12fdc8e7c14c92b",
 "assets/assets/button_hot.png": "f3f86df710a3c9ba5d979f705310b6e5",
 "assets/assets/clear_purple1.jpg": "5ec0b62dbe2316803bc0d94246505296",
 "assets/assets/clear_purple2.jpg": "179dc86e7e1acaed676b5ba9f5399439",
@@ -77,9 +82,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "ffd60f1a5c600732be7ae5bb47ef5160",
-"/": "ffd60f1a5c600732be7ae5bb47ef5160",
-"main.dart.js": "facc430bf6328306c6f13687d2a1272d",
+"index.html": "d499484966d111eee6ffef7f56a8939c",
+"/": "d499484966d111eee6ffef7f56a8939c",
+"main.dart.js": "0f88b738bcbbdf2dce480221654da15b",
 "manifest.json": "f35bd00acc6350598b6e1e2590f088e8",
 "version.json": "37da58b8142ff9cd5f0f2c9db59f2fcf"
 };
