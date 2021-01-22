@@ -55063,8 +55063,10 @@ D.q4.prototype={
 ac:function(){return new D.EQ(C.m)}}
 D.EQ.prototype={
 ax:function(){this.aP()},
-H:function(a,b){var s=null,r=t.t
-return M.dr(E.df($.cs(),s,T.K(L.aM("\u0627\u0644\u0644\u0627\u0645\u0627\u0644\u0627\u0646\u0647\u0627\u064a\u0629",s,s,s,s,s),s,s)),Q.d7(!0,T.bU(C.a1,H.b([M.av(s,s,C.l,$.dv(),s,s,s,s,s,s,s,s,s),B.a9o(H.b([T.iq(s,30,s),T.K(U.a9(s,s,!1,s,new L.a6("assets/congrat.png"),s),s,s),T.iq(s,30,s),D.aD(s,L.cv(C.al,s,50),C.o,!1,s,s,s,s,s,s,s,s,s,s,s,new D.XX(b),s,s,s,s,s,s)],r))],r),C.H),!0))}}
+H:function(a,b){var s,r=null,q=E.df($.cs(),r,T.K(L.aM("\u0627\u0644\u0644\u0627\u0645\u0627\u0644\u0627\u0646\u0647\u0627\u064a\u0629",r,r,r,r,r),r,r)),p=M.av(r,r,C.l,$.dv(),r,r,r,r,r,r,r,r,r),o=T.iq(r,30,r),n=b.n(t.w)
+n=500/n.f.b
+s=t.t
+return M.dr(q,Q.d7(!0,T.bU(C.a1,H.b([p,B.a9o(H.b([o,T.K(U.a9(r,r,!1,r,new L.a6("assets/congrat.png"),n),r,r),T.iq(r,30,r),D.aD(r,L.cv(C.al,r,50),C.o,!1,r,r,r,r,r,r,r,r,r,r,r,new D.XX(b),r,r,r,r,r,r)],s))],s),C.H),!0))}}
 D.XX.prototype={
 $0:function(){return K.b6(this.a).bl(V.bh(new D.XV(),null,t.z),new D.XW())},
 $S:6}
