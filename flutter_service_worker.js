@@ -3,7 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "3ddcce249f6256688362ffb9cf900979",
+  "assets/AssetManifest.json": "31669dbbbc5c66476bc5cba20086688c",
+"assets/assets/audio/normal.mp3": "1506a28429bcd7dea937a361bdd555be",
 "assets/assets/bg.gif": "31386cfeb379f581cf54882a3a09bd51",
 "assets/assets/bg.png": "40dac8fa326f611ae3446a16385fa2a9",
 "assets/assets/bg_level.png": "86594d1efbcb2b1d3e8536ecaae8f38b",
@@ -24,7 +25,7 @@ const RESOURCES = {
 "assets/assets/brush_green.gif": "5f137b30c07bcde62628f79e78a0184a",
 "assets/assets/brush_orange.gif": "98512222f328435e008cd40b755c2719",
 "assets/assets/brush_red.gif": "51a2a77238c585b8321ed773eee1f992",
-"assets/assets/brush_white.gif": "01461f2235ed4326d4e466b353433d72",
+"assets/assets/brush_white.gif": "48cb61bc3342cf2f446380348a098296",
 "assets/assets/brush_yellow.gif": "51b28b9f2e87d38e9fe48f71b901b8bb",
 "assets/assets/buttom_start.png": "a15e37b2421d8a8892c41e192fe29c4c",
 "assets/assets/button_choose.png": "c922dd0f8971b2bd73b14e74aedf8b58",
@@ -61,6 +62,7 @@ const RESOURCES = {
 "assets/assets/rainbow.png": "401a780f0077ffb87b0a11d915944bb8",
 "assets/assets/rainbow_missing.png": "356ce981b24cbae997b3caf82dcee526",
 "assets/assets/spot.png": "5fe002b9346c045cc3964cff5d36c58f",
+"assets/assets/spot_white.png": "8d00d46041ede4eb84b07de07b72f88a",
 "assets/assets/trophy1.gif": "7531a636828831816372d5ea79a968bf",
 "assets/assets/trophy2.gif": "d0b5853f8411579a582895c8290fd227",
 "assets/assets/trophy3.gif": "9592a6f20ff7d692b2641b8141e3573c",
@@ -77,14 +79,14 @@ const RESOURCES = {
 "assets/fonts/Tajawal-Light.ttf": "fbca61ce5f0321ab500bdbb168b775b0",
 "assets/fonts/Tajawal-Medium.ttf": "2bfe3ee2145f6755e4b5960310daee03",
 "assets/fonts/Tajawal-Regular.ttf": "6b10b55e4df612910047b7e5d596a9d5",
-"assets/NOTICES": "286df8bbafa25f43d9f1ea1f994a8f1f",
+"assets/NOTICES": "5229c8d34fd5ffcbd7acbebb6c566f6e",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "656d7d2b3714061ff736906cc9db5e10",
-"/": "656d7d2b3714061ff736906cc9db5e10",
-"main.dart.js": "8426f682dd9fd2cc62ad2703bc7ddb4a",
+"index.html": "b4f7878ea66dfcdf332508863548c374",
+"/": "b4f7878ea66dfcdf332508863548c374",
+"main.dart.js": "16f1b646b9bfacc34d408593db4851d5",
 "manifest.json": "f35bd00acc6350598b6e1e2590f088e8",
 "version.json": "37da58b8142ff9cd5f0f2c9db59f2fcf"
 };
