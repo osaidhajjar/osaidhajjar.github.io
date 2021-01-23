@@ -13946,7 +13946,7 @@ m[r]=new T.az(new V.aa(q,q,q,q),U.M(o,o,!1,o,new L.K("assets/trophy"+C.h.i(p)+".
 cp:function(a){var s=null,r=t.w,q=a.k(r).f,p=a.k(r).f
 r=a.k(r)
 r=70/r.f.b
-return T.b4(H.b([T.v(T.r(U.M(s,s,!1,p.a.b-r,new L.K("assets/bg_level.png"),q.a.b*1.285),C.f,1),s,s)],t.t),C.t)}},F={Iu:function Iu(a,b){this.b=a
+return T.b4(H.b([T.v(T.r(U.M(s,s,!1,p.a.b-r,new L.K("assets/color_circle.jpg"),q.a.b*1.285),C.f,1),s,s)],t.t),C.t)}},F={Iu:function Iu(a,b){this.b=a
 this.a=b},XJ:function XJ(){},dT:function dT(){},r0:function r0(){},
 a9a:function(a,b){var s,r,q
 if(a==null)return b
