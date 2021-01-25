@@ -58083,7 +58083,7 @@ B.GD.prototype={
 Ss:function(){if(this.e===2)P.V(P.P(0,500,0),new B.a3s(this))},
 ad:function(){this.ao()
 this.a.toString
-$.c1="\u0627\u0644\u0645\u0633\u062a\u0648\u0649 \u0627\u0644\u0631\u0627\u0628\u0639 \u0648\u0639\u0634\u0631\u0648\u0646"
+$.c1="\u0627\u0644\u0645\u0633\u062a\u0648\u0649 \u0627\u0644\u0631\u0627\u0628\u0639 \u0648\u0627\u0644\u0639\u0634\u0631\u0648\u0646"
 P.V(C.p,new B.a3C())},
 F:function(a,b){var s,r,q,p,o,n=this,m=null
 P.iZ($.ay)
@@ -58197,7 +58197,7 @@ var s=V.uG("assets/audio/applause.mp3")
 this.y=s
 s.dl(0)
 this.a.toString
-$.c1="\u0627\u0644\u0645\u0633\u062a\u0648\u0649 \u0627\u0644\u0623\u0648\u0644"
+$.c1="\u0627\u0644\u0645\u0633\u062a\u0648\u0649 \u0627\u0644\u062e\u0627\u0645\u0633 \u0648\u0627\u0644\u0639\u0634\u0631\u0648\u0646"
 P.V(C.p,new N.a42())},
 p:function(a){this.y.p(0)
 this.b9(0)},
@@ -58207,7 +58207,7 @@ b.k(g).toString
 b.k(g).toString
 f=T.r(T.x(h,h,h),C.e,5)
 i.a.toString
-s=T.r(U.abP("\u0647\u064a\u0627 \u0644\u0646\u0636\u0639 \u0628\u0642\u0639 \u0627\u0644\u0627\u0644\u0648\u0627\u0646 \u0641\u064a \u0645\u0643\u0627\u0646\u0647\u0627 \u0627\u0644\u0635\u062d\u064a\u062d",i.y,b),C.e,10)
+s=T.r(U.abP("\u0647\u064a\u0627 \u0644\u0646\u0636\u0639 \u0645\u0643\u0639\u0628\u0627\u062a \u0627\u0644\u0623\u0644\u0648\u0627\u0646 \u0627\u0644\u0628\u0627\u0631\u062f\u0629 \u0641\u0648\u0642 \u0628\u0639\u0636\u0647\u0627 \u0648\u0627\u0644\u062d\u0627\u0631\u0629 \u0641\u0648\u0642 \u0628\u0639\u0636\u0647\u0627",i.y,b),C.e,10)
 r=b.k(g)
 r=300/r.f.b
 q=b.k(g)
