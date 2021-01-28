@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "4be87bbefae181d7f20edcfdd7c4c9f6",
+  "assets/AssetManifest.json": "746fe5566237147f6020f2299989d030",
 "assets/assets/audio/applause.mp3": "c2030d5be0b9612b93380594a7d873cd",
 "assets/assets/audio/normal.mp3": "1506a28429bcd7dea937a361bdd555be",
 "assets/assets/bg.gif": "31386cfeb379f581cf54882a3a09bd51",
@@ -31,6 +31,8 @@ const RESOURCES = {
 "assets/assets/brush_red.gif": "51a2a77238c585b8321ed773eee1f992",
 "assets/assets/brush_white.gif": "48cb61bc3342cf2f446380348a098296",
 "assets/assets/brush_yellow.gif": "51b28b9f2e87d38e9fe48f71b901b8bb",
+"assets/assets/buttom_back.png": "0fd0a1f543dda067269015874f7a167a",
+"assets/assets/buttom_guide.png": "898137148722574ccc02517a6629df39",
 "assets/assets/buttom_start.png": "a15e37b2421d8a8892c41e192fe29c4c",
 "assets/assets/button_choose.png": "c922dd0f8971b2bd73b14e74aedf8b58",
 "assets/assets/button_cold.png": "b51d1fd48a6742ea475bb560a63518a3",
@@ -94,9 +96,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "256b07f0ae0cd73bd743e5d616c6abdc",
-"/": "256b07f0ae0cd73bd743e5d616c6abdc",
-"main.dart.js": "e6fb64e00fcfad220402fd2d99eab383",
+"index.html": "b6fe4d1ad30b01e7bf2236c9b342ac41",
+"/": "b6fe4d1ad30b01e7bf2236c9b342ac41",
+"main.dart.js": "fcd995920d8d2242a0ef89ef3c8caa74",
 "manifest.json": "f35bd00acc6350598b6e1e2590f088e8",
 "version.json": "37da58b8142ff9cd5f0f2c9db59f2fcf"
 };
